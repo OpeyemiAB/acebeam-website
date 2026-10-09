@@ -1,0 +1,8 @@
+# Robots.txt for Acebeam Engineering Limited (AEL)
+# https://acebeamel.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://acebeamel.com/sitemap.xml
